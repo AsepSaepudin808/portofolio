@@ -1,1 +1,1 @@
-link publish : 
+link publish : https://myportofolio-asepsaepudin.netlify.app/
